@@ -1,0 +1,1 @@
+global x_train,y_train,x_test, y_test,top_words,padded_data
