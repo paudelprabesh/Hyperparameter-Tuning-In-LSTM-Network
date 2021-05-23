@@ -16,9 +16,3 @@ Our study shows that GA gives the best result in finding the best model with AUC
 Our comparative study between RS, BO, and GA (with Grid Search) shows that GA gives the optimal hyperparameters with high validation accuracy on the test dataset.
 However, Random Search and Bayesian Optimization give sub-optimal results with faster training time.
 
-### Group 09
-
-- Binish Koirala
-- Bishal Neupane
-- Prabesh Pathak
-- Prabesh Poudel
